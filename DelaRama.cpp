@@ -51,7 +51,7 @@ int main() {
     cout << "Coffee\t\t" << coffeeQty << "\t\t" << coffeeCostPHP / coffeeQty << "\t\t\t" << coffeeCostPHP << endl;
     cout << "Milk\t\t" << milkQty << "\t\t" << milkCostPHP / milkQty << "\t\t\t" << milkCostPHP << endl;
 
-    cout << "\nTotal Amount to be Paid (PHP): " << totalCostPHP << endl;
+    cout << "Total Amount to be Paid (PHP): " << totalCostPHP << endl;
 
     return 0;
 }
