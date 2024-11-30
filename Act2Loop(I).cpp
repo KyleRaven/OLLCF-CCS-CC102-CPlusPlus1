@@ -39,5 +39,3 @@ int main() {
     return 0;
 }
 
-
-//I Give up sir diko na po kaya
